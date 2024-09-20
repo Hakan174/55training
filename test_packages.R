@@ -1,4 +1,4 @@
-library(RPostgres)
+library(RPostgres) - Tror det er er den forkerte kode
 
 library(tidyverse) # load many packages often used in data science
 Nye version hej hej sjkallsakjdkljsadkljasdjklaskldasldjlka
